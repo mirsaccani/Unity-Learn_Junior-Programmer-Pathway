@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0232a093d67e448b7a80e945acf8e227
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146043
+  packageName: Create with Code | Challenge 1 - Plane Programming
+  packageVersion: 1.0
+  assetPath: Assets/Challenge 1/Scripts/PlayerControllerX.cs
+  uploadId: 326085
