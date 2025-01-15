@@ -1,7 +1,7 @@
 Before starting the course, some of the files that are useful with the course, I couldn't import them correctly until I did the following.
 So, if you have problems with the files the course give you for the lessons or the challenges, here's what I did (Unity 6):
-- First, I have downloaded the file inside the page(s) where you take the courses.
-- Then, I searched in the Unity assets. If you don't find them on the website directly, try typing the name of the assets in the search engine (ecosia, google, etc).
+- First, I have downloaded the file inside the page(s) where you take the courses. And then, I have imported everything in Unity.
+- At this point, I searched in the Unity assets. If you don't find them on the website directly, try typing the name of the assets in the search engine (ecosia, google, etc).
 
 Assets in Unity:
 - Create with code | Prototype 1 - Driving Simulation
